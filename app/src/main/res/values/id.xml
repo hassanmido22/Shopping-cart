@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item type="id" name="chicken_id">chicken_editText</item>
+    <item type="id" name="rice_id">rice_editText</item>
+    <item type="id" name="beef_id">beef_editText</item>
+
+</resources>
